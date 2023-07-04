@@ -1,5 +1,5 @@
 // Kegan Premuda
-// This program takes in data of a week of snow fall reports for a week, calculates the highest snow fall day and average snow fall, and outputs a snow fall report for the week.
+// This program takes in data of a week of snow fall reports, calculates the highest snow fall day and average snow fall, and outputs a snow fall report for the week.
 #include <iostream>
 #include <iomanip>
 using namespace std;
