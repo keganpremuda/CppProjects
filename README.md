@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This collection consists on various projects that demonstrate my abilities with C++.
+This collection consists of various projects that demonstrate my abilities with C++.
 <br />
 <br />
 
