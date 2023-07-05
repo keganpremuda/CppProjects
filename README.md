@@ -12,7 +12,7 @@ This collection consists of various projects that demonstrate my abilities with 
 
 <h2>Environments Used </h2>
 
-- <b>Visual Studio Code</b><br><br>
+- <b>Visual Studio Code</b><br>(Windows 11)<br>
 
 <h2>Collection walk-through:</h2>
 
